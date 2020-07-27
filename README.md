@@ -4,7 +4,9 @@
 
 ![](firstapp1.gif)
 
-- [ ]   [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..index#0)
+- [x]   [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..index#0)
+
+![](second.gif)
 
 - [ ]   [MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/index.html?index=..%2F..index#0)
 
